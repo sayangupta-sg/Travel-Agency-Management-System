@@ -1,6 +1,41 @@
-# Travel-Agency-Management-System
-This C++ project is a Travel Agency Management System that allows users to book, cancel, and check tickets for flights, buses, and trains. It uses file handling to store booking records and provides seat allocation and fare calculation features for passengers.
+## Travel-Agency-Management-System
+#💡 Description:
 
+A C++ project that allows users to book, cancel, and check tickets for flights, buses, and trains. It efficiently manages passenger details and bookings using file handling techniques.
+
+
+#🎯 Objective:
+
+The objective of this project is to develop a Travel Agency Management System using C++ that allows users to book, cancel, and check tickets for flights, buses, and trains. The system uses file handling to store and manage booking details, ensuring efficient record keeping and easy access to passenger information.
+
+
+#✨ Features
+
+•🧳 Multi-Mode Booking: Book tickets for flights, buses, and trains from one system.
+
+•👥 Passenger Management: Store and retrieve passenger details efficiently using file handling.
+
+•🎟️ Ticket Operations: Book, cancel, and view ticket details with unique ticket IDs.
+
+•💰 Automatic Fare Calculation: Calculates total fare based on class and number of seats.
+
+•🪑 Seat Allocation: Assigns seats automatically during ticket booking.
+
+•📁 File Storage: Saves all booking data in text files for easy access and record keeping.
+
+•🕒 Date and Time Logging: Records the date and time of each booking automatically.
+
+•🖥️ User-Friendly Interface: Simple console-based menu system for easy navigation.
+
+
+#🧑‍💻 Team Members Names
+
+•  SAYAN GUPTA (ADTU/0/2025-28/BCAM/016)
+•  ANISH SINHA (ADTU/0/2025-28/BCAM/022)
+•  DEEP UPADHAYA (ADTU/0/2025-28/BCAM/027)
+•  NEHA SHAH (ADTU/0/2025-28/BCAM/018)
+•  PRIYANKA ROY (ADTU/0/2025-28/BCAM/052)
+•  DEBOLINA CHOWDHARY (ADTU/0/2025-28/BCAM/001)
 
 Access the webapp from this link
 https://igit.me/travelmanagement
