@@ -4,9 +4,13 @@
 A C++ project that allows users to book, cancel, and check tickets for flights, buses, and trains. It efficiently manages passenger details and bookings using file handling techniques.
 
 
+
+
 **🎯 Objective:**
 
 The objective of this project is to develop a Travel Agency Management System using C++ that allows users to book, cancel, and check tickets for flights, buses, and trains. The system uses file handling to store and manage booking details, ensuring efficient record keeping and easy access to passenger information.
+
+
 
 
 **✨ Features**
@@ -28,6 +32,8 @@ The objective of this project is to develop a Travel Agency Management System us
 •🖥️ User-Friendly Interface: Simple console-based menu system for easy navigation.
 
 
+
+
 **🧑‍💻 Team Members Names**
 
 •  SAYAN GUPTA (ADTU/0/2025-28/BCAM/016)
@@ -37,8 +43,11 @@ The objective of this project is to develop a Travel Agency Management System us
 •  PRIYANKA ROY (ADTU/0/2025-28/BCAM/052)
 •  DEBOLINA CHOWDHARY (ADTU/0/2025-28/BCAM/001)
 
+
+
 Access the webapp from this link
 https://igit.me/travelmanagement
+
 
 
 <img width="1307" height="719" alt="image" src="https://github.com/user-attachments/assets/0ddd7b93-27be-4788-bef5-abd7b22184e7" />
