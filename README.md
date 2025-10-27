@@ -40,8 +40,8 @@ The objective of this project is to develop a Travel Agency Management System us
 
 
 
-
-<p>**🧑‍💻 Team Members Names**
+<p>  </p>
+**🧑‍💻 Team Members Names**
 
 
  • SAYAN GUPTA (ADTU/0/2025-28/BCAM/016)
@@ -55,7 +55,7 @@ The objective of this project is to develop a Travel Agency Management System us
  • PRIYANKA ROY (ADTU/0/2025-28/BCAM/052)
  
  • DEBOLINA CHOWDHARY (ADTU/0/2025-28/BCAM/001)
- </p>
+ 
 
 
 
