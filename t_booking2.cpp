@@ -637,7 +637,7 @@ int main()
                                 amt = (2800 + (meal == 1 ? 300 : 0)) * seat;
                         }
 
-                        // ✅ coach assignment based on class
+                        // coach assignment based on class
                         string coachPrefix;
                         if (clas == 1)
                             coachPrefix = "A"; // AC
@@ -649,7 +649,7 @@ int main()
                         int coachNum = (rand() % 3) + 1; // 3 coaches per type
                         string coach = coachPrefix + to_string(coachNum);
 
-                        // ✅ consecutive seats inside a coach
+                        // consecutive seats inside a coach
                         int startSeat = (rand() % (72 - seat + 1)) + 1;
 
                         cout << "Ticket booked successfully!" << endl;
@@ -803,3 +803,4 @@ int main()
     }
     return 0;
 }
+
